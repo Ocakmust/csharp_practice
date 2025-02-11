@@ -1,0 +1,2 @@
+Product ID: 1, Name: Iphone XYZ, Quantity: 50, Date: 2/11/2025 12:18:11 PM
+Product ID: 2, Name: Custom Laptop, Quantity: 30, Date: 2/11/2025 12:18:11 PM

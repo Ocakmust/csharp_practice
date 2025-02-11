@@ -1,0 +1,6 @@
+Invoice
+Date: 2/11/2025 12:18:11 PM
+               
+Iphone XYZ - Quantity: 5, Total: 3775.95280
+Custom Laptop - Quantity: 6, Total: 11682.000
+Total: 15457.95280

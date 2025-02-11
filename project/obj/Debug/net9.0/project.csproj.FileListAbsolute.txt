@@ -1,0 +1,14 @@
+d:\Ders\JS\C\project\project\bin\Debug\net9.0\project.exe
+d:\Ders\JS\C\project\project\bin\Debug\net9.0\project.deps.json
+d:\Ders\JS\C\project\project\bin\Debug\net9.0\project.runtimeconfig.json
+d:\Ders\JS\C\project\project\bin\Debug\net9.0\project.dll
+d:\Ders\JS\C\project\project\bin\Debug\net9.0\project.pdb
+d:\Ders\JS\C\project\project\obj\Debug\net9.0\project.GeneratedMSBuildEditorConfig.editorconfig
+d:\Ders\JS\C\project\project\obj\Debug\net9.0\project.AssemblyInfoInputs.cache
+d:\Ders\JS\C\project\project\obj\Debug\net9.0\project.AssemblyInfo.cs
+d:\Ders\JS\C\project\project\obj\Debug\net9.0\project.csproj.CoreCompileInputs.cache
+d:\Ders\JS\C\project\project\obj\Debug\net9.0\project.dll
+d:\Ders\JS\C\project\project\obj\Debug\net9.0\refint\project.dll
+d:\Ders\JS\C\project\project\obj\Debug\net9.0\project.pdb
+d:\Ders\JS\C\project\project\obj\Debug\net9.0\project.genruntimeconfig.cache
+d:\Ders\JS\C\project\project\obj\Debug\net9.0\ref\project.dll

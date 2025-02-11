@@ -1,0 +1,44 @@
+Sales Record at 1/25/2025 1:44:04 AM:
+Product ID 1: 2 units sold
+Product ID 2: 1 units sold
+----------------------------
+Sales Record at 1/25/2025 1:47:16 AM:
+Product ID 1: 2 units sold
+Product ID 2: 1 units sold
+----------------------------
+Sales Record at 2/11/2025 10:14:07 AM:
+Product ID 1: 2 units sold
+Product ID 2: 1 units sold
+----------------------------
+Sales Record at 2/11/2025 11:25:06 AM:
+Product ID 1: 2 units sold
+Product ID 2: 1 units sold
+----------------------------
+Sales Record at 2/11/2025 11:38:27 AM:
+Product ID 1: 2 units sold
+Product ID 2: 1 units sold
+----------------------------
+Sales Record at 2/11/2025 11:49:51 AM:
+Product ID 1: 2 units sold
+Product ID 2: 1 units sold
+----------------------------
+Sales Record at 2/11/2025 11:49:51 AM:
+Product ID 1: 9 units sold
+Product ID 2: 8 units sold
+----------------------------
+Sales Record at 2/11/2025 11:55:43 AM:
+Product ID 1: 2 units sold
+Product ID 2: 1 units sold
+----------------------------
+Sales Record at 2/11/2025 11:55:43 AM:
+Product ID 1: 7 units sold
+Product ID 2: 7 units sold
+----------------------------
+Sales Record at 2/11/2025 12:18:11 PM:
+Product ID 1: 2 units sold
+Product ID 2: 1 units sold
+----------------------------
+Sales Record at 2/11/2025 12:18:11 PM:
+Product ID 1: 7 units sold
+Product ID 2: 7 units sold
+----------------------------
